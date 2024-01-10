@@ -59,9 +59,9 @@ int main(void)
     Time t1(0, 30, 45);
     cout << "t1: " << t1 << endl;
 
-    Time t2(0, 55, 25);
-    Time t3 = t1 + t2;
-    cout << "t3: " <<t3 << endl;
+//    Time t2(0, 55, 25);
+//    Time t3 = t1 + t2;
+//    cout << "t3: " <<t3 << endl;
 
     return 0;
 }
