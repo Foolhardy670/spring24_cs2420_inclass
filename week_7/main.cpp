@@ -138,10 +138,10 @@ void main_double_list_2()
 
 int main(void)
 {
-    main_list_1();
+   // main_list_1();
 //    main_list_2();
 
-//    main_double_list_1();
+   main_double_list_1();
 //    main_double_list_2();
 
     return 0;

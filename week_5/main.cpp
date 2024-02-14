@@ -129,10 +129,10 @@ void main_queue()
 
 int main(void)
 {
-    main_static_stack();
+    //main_static_stack();
 //    main_static_queue();
-//    main_stack();
-//    main_queue();
+   //main_stack();
+    main_queue();
 
     return 0;
 }
