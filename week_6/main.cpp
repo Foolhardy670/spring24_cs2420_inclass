@@ -138,10 +138,17 @@ void main_double_list_2()
 
 int main(void)
 {
+//<<<<<<< HEAD:week_7/main.cpp
    // main_list_1();
 //    main_list_2();
 
    main_double_list_1();
+//=======
+//    main_list_1();
+//    main_list_2();
+
+    main_double_list_1();
+//>>>>>>> cd74f993aef4e8429c239c357c7bfcb939e4e276:week_6/main.cpp
 //    main_double_list_2();
 
     return 0;
